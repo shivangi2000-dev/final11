@@ -1,0 +1,7 @@
+streamlit==1.25.0         # Latest stable version of Streamlit
+psycopg2-binary==2.9.8    # PostgreSQL connector
+pandas==2.1.3             # For data operations
+matplotlib==3.8.2         # Optional: If visualizations are needed
+
+psycopg2-binary==2.9.8
+
